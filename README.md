@@ -8,7 +8,7 @@ O projeto ShelterAI pretende garantir a vida por meio de um sistema baseado em I
 Verificar mantimentos, água, roupas, itens de higiene faltantes ou excedentes para destinação entre abrigos.
 Verificar quais abrigos precisam ou podem realizar transferência para garantir a subsistências de pessoas e animais no período de crise. Controle de estoque, aviso de estoque faltante aos coordenadores dos locais e autoridades da defesa civil.
 
-- Gerencimento de vagas:
+- Gerenciamento de vagas:
 Abrigos com excesso ou vagas para pessoas ou animais podem se comunicar através do sistema para que seja possível a realocação de pessoas e destinação de vítimas entre abrigos.
 
 - Chatbot com informações relevantes sobre o evento:
